@@ -1,2 +1,2 @@
 # my-first-repo
-A test repo for class
+An example repository for code used in GEG4301.
